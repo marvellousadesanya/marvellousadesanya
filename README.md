@@ -9,7 +9,7 @@ Passionate full stack developer with 4+ years of experience building scalable we
 **Backend:** Node.js, Nest.js, Express.js, RESTful APIs, GraphQL  
 **Databases:** PostgreSQL, MongoDB, SQL  
 **Cloud & DevOps:** AWS, DigitalOcean, Hetzner, Coolify, Docker  
-**Tools:** Git, VS Code, Postman, Figma  
+
 
 ## 🛠️ What I Build
 - **SaaS Applications** - End-to-end platforms with subscription management
