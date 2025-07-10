@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Marvellous Adesanya
-**Full Stack Developer | SaaS & E-commerce Specialist | Lagos, Nigeria**
+**Full Stack Developer | Founder | Lagos, Nigeria**
 
 ## 🚀 About Me
 Passionate full stack developer with 4+ years of experience building scalable web applications. What started as curiosity about how things work on the web has evolved into a deep love for creating robust, user-centric solutions. I specialize in modern JavaScript ecosystems and enjoy tackling complex problems from database design to user interfaces.
