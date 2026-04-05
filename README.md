@@ -1,35 +1,25 @@
-# 👋 Hi, I'm Marvellous Adesanya
-**Full Stack Developer | Founder | Lagos, Nigeria**
+# Marvellous Adesanya
+**Senior Full Stack Developer · Solutions Architect · Lagos, Nigeria**
 
-## 🚀 About Me
-Passionate full stack developer with 4+ years of experience building scalable web applications. What started as curiosity about how things work on the web has evolved into a deep love for creating robust, user-centric solutions. I specialize in modern JavaScript ecosystems and enjoy tackling complex problems from database design to user interfaces.
+I build production systems — not just features. 
+5+ years across fintech, SaaS, AI-powered platforms, and manufacturing ERP systems.
 
-## 💻 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Chakra UI  
-**Backend:** Node.js, Nest.js, Express.js, RESTful APIs, GraphQL  
-**Databases:** PostgreSQL, MongoDB, SQL  
-**Cloud & DevOps:** AWS, DigitalOcean, Hetzner, Coolify, Docker  
+Currently designing and shipping systems at Meta4 Solutions while 
+building OjaFlow, a WhatsApp-native business management platform for Nigerian SMEs.
 
+## Stack
+**Frontend:** React · Next.js · TypeScript · ViteJS · Tailwind CSS · Chakra UI
+**Backend:** Node.js · NestJS · Express.js · REST APIs
+**Databases:** PostgreSQL · MongoDB · MySQL · Redis · Firebase
+**Cloud & DevOps:** GCP · Cloud Run · AWS · Docker · GitHub Actions · CI/CD
 
-## 🛠️ What I Build
-- **SaaS Applications** - End-to-end platforms with subscription management
-- **E-commerce Solutions** - Full-featured online stores with payment integration
-- **RESTful APIs** - Scalable backend services and microservices
-- **Database Architecture** - Optimized data structures and queries
+## What I work on
+- Architecting scalable full stack systems from the ground up
+- Cloud infrastructure and deployment pipelines
+- AI-integrated products and backend services
+- Internal tooling and ERP systems
 
-## 🌍 Work Style
-I thrive in **hybrid and remote environments** and am always open to exciting **freelance opportunities**. Based in Lagos, Nigeria, I collaborate with teams globally and deliver projects that scale.
-
-## 📚 Beyond Code
-When I'm not coding, you'll find me:
-- 🎬 Watching documentaries (always learning something new!)
-- 📖 Exploring emerging technologies and industry trends
-- 🌱 Contributing to open source projects
-
-## 📫 Let's Connect
-- 💼 Open to freelance projects and collaborations
-- 🌐 Building the next generation of web applications
-- 📧 Reach out for SaaS, e-commerce, or API development
-
----
-*"Passionate about turning ideas into scalable digital solutions"*
+## Currently
+- 🏗️ Building an ERP system for 3D manufacturing operations at Meta4
+- 🚀 Developing OjaFlow — AI-powered business tools for Nigerian SMEs
+- 📍 Open to Solutions Architect and Senior Full Stack roles
